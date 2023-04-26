@@ -1,5 +1,5 @@
 # Project Title
-This project looks at option price data for Tesla (Tsla) and Coinbase (Coin) and draws the call option price along different strike prices with varying expiry dates. Compare that with implied volatilities (IV) at each data point. 
+This project looks at option price data for Tesla (Tsla) and draws the call option price along different strike prices with varying expiry dates. Compare that with implied volatilities (IV) at each data point. 
 
 The data point with higher IV and interval space along the weekly curve may indicate that the call option is overpriced relative to the same strike price along different expiry weekly curves. Therefore, the higher-priced option may be attractive compared to the call option with the same strike price and varying expiry dates. 
 
